@@ -39,7 +39,8 @@ Flutter fan and actually in love with Dart & Flutter development.💞️
 
 ### My Favorites IDE
 
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=Intellij-idea&color=0D1117&style=flat-square)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=Intellij-idea&logoColor=&color=0D1117&style=flat-square)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual-Studio-Code&logoColor=2261C7&color=0D1117&style=flat-square)
 ![Quartus](https://img.shields.io/badge/Quartus%20Prime-08ecfc)
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-be4dfa)
+![Eclpise](https://img.shields.io/badge/-Eclipse-000?&logo=eclipseide&logoColor=2C2255&color=0D1117&style=flat-square)
