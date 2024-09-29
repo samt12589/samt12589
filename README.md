@@ -23,6 +23,7 @@ Interested in game development and creating small arcade games! 😎
 ### Technologies and Frameworks
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&color=0D1117&style=flat-square)
+![WireShark](https://img.shields.io/badge/-WireShark-000?&logo=wireshark&logoColor=1679A7&color=0D1117&style=flat-square) 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=FF0000&color=0D1117&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C&color=0D1117&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&color=0D1117&style=flat-square)
