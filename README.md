@@ -29,7 +29,7 @@ Interested in game development and creating small arcade games! 😎
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&color=0D1117&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=0D1117&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&color=0D1117&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logocolor=1572B6&color=0D1117&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6&color=0D1117&style=flat-square)
 ![Verilog](https://img.shields.io/badge/System%20Verilog-1b2fc2)
 ![C](https://img.shields.io/badge/-Embedded%20Code-000?&logo=c&logoColor=00599C&color=0D1117&style=flat-square)
 ![KiCAD](https://img.shields.io/badge/-KiCAD-000?&logo=kicad&color=0D1117&style=flat-square&logosize=auto)
