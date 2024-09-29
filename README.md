@@ -15,6 +15,11 @@ Interested in game development and creating small arcade games! 😎
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=007396&color=0D1117&style=flat-square)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=nodedotjs&logoColor=#5FA04E&color=0D1117&style=flat-square) 
 
+### Want to learn
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=#FFFFFF&color=0D1117&style=flat-square) 
+![Godot](https://img.shields.io/badge/-Godot-000?&logo=godotengine&logoColor=#478CBF&color=0D1117&style=flat-square) 
+![Go](https://img.shields.io/badge/-Go%20Lang-000?&logo=go&logoColor=#00ADD8&color=0D1117&style=flat-square) 
+
 ### Technologies and Frameworks
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&color=0D1117&style=flat-square)
