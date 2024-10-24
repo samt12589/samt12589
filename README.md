@@ -17,7 +17,6 @@ Interested in game development and creating small arcade games! 😎
 
 ### Want to learn
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=#FFFFFF&color=0D1117&style=flat-square) 
-![Godot](https://img.shields.io/badge/-Godot-000?&logo=godotengine&logoColor=#478CBF&color=0D1117&style=flat-square) 
 ![Go](https://img.shields.io/badge/-Go%20Lang-000?&logo=go&logoColor=#00ADD8&color=0D1117&style=flat-square) 
 
 ### Technologies and Frameworks
