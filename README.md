@@ -2,16 +2,18 @@
 ## Hi, I am Saksham Kumar 😁 ![](https://komarev.com/ghpvc/?username=samt12589&style=flat-square)
 
 I’m currently working on FPGA Development and embedded programming projects!! 👀
+Learning on how to write my own Linux Driver for AIC8X00 chips for fun! ➡️ ( And making my wifi adapter work on my pc when booted in AnduinOS ) 🐧
 Flutter fan and actually in love with Dart & Flutter development.💞️ 
 Interested in game development and creating small arcade games! 😎
 
 
 ### Social Networks
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=2867B2&color=0D1117&style=flat-square)](https://www.linkedin.com/in/saksham-kumar-sak12589)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2257D4)](https://www.linkedin.com/in/saksham-kumar-sak12589)
 
 ### Currently Studying [![Notion](https://img.shields.io/badge/-See_on_my_Notion-000?&logo=Notion&color=0D1117&style=flat-square)](https://www.notion.com)
 
+![DDD](https://img.shields.io/badge/Device%20Driver%20Development-D43C22)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=007396&color=0D1117&style=flat-square)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=nodedotjs&logoColor=#5FA04E&color=0D1117&style=flat-square) 
 
@@ -29,7 +31,7 @@ Interested in game development and creating small arcade games! 😎
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=0D1117&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&color=0D1117&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6&color=0D1117&style=flat-square)
-![Verilog](https://img.shields.io/badge/System%20Verilog-1b2fc2)
+![Verilog](https://img.shields.io/badge/System%20Verilog-436BD1)
 ![C](https://img.shields.io/badge/-Embedded%20Code-000?&logo=c&logoColor=00599C&color=0D1117&style=flat-square)
 ![KiCAD](https://img.shields.io/badge/-KiCAD-000?&logo=kicad&color=0D1117&style=flat-square&logosize=auto)
 ![LTSpice](https://img.shields.io/badge/-LTSpice-000?&logo=ltspice&logoColor=900028&color=0D1117&style=flat-square)
